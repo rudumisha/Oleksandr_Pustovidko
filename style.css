@@ -1,0 +1,41 @@
+header {
+    background-color: gold;
+    font-family: Georgia;
+    font-size: 10px;
+    padding: 3px;
+}
+
+header a {
+    background-color: orange;
+    border: 2px solid orange;
+    margin: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: brown;
+}
+
+body {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 30px;
+    background-color: indianred;
+}
+
+body p {
+    text-align: left;
+    font-size: 20px;
+    padding: 10px
+}
+
+.align {
+    font-size: 30px;
+    text-align: center;
+}
+
+footer {
+    background-color: gold;
+}
+
+footer p {
+    font-size: 10px;
+}
